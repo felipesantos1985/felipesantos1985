@@ -24,6 +24,7 @@ class formação extends Acadêmica {
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesantos1985&show_icons=true&theme=radical)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos1985&hide=html&layout=compact&theme=radical)](https://github.com/felipesantos1985/)
 
 
 
@@ -63,3 +64,4 @@ class formação extends Acadêmica {
 
 
 </div><br/>
+
