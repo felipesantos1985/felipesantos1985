@@ -1,68 +1,52 @@
-[
-Oie devs 👋 <br>
 
-Seja bem-vindo ao meu Github
+<h1 align="left">Felipe Santos 👋</h1>
+<h3 align="left">Full-Stack Developer & UI/UX Designer</h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="360" align="right" alt="Computador">
 
-
-```js
-import Desenvolvedor from 'Felipe ';
-
-class SobreMim extends Desenvolvedor {
-  nome     = 'Felipe';
-  area    = 'Back-end Ruby on Rails';
-  trabalho  = 'Calenda';
-  local = 'Belo-Horizonte';
-}
-
-class formação extends Acadêmica {
-  Graduação em = ['Marketing'];
-  Graduação em = ['Designer Gráfico'];
-  Graduação em = ['Sistemas para Web'];
-}
+```ts
+const felipe: Developer = {
+  role: "Full-Stack Developer & UI/UX Designer",
+  currently: "Gerente de E-commerce & UI/UX Designer @ Manada Animal",
+  building: "Corre Santa Luzia — plataforma SaaS para gestão de corridas",
+  stack: ["React", "Next.js", "TypeScript", "Tailwind", "Node.js", "Supabase", "PostgreSQL"],
+  design: ["Figma", "shadcn/ui"],
+  location: "Belo Horizonte, MG - Brasil",
+};
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesantos1985&show_icons=true&theme=radical)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos1985&hide=html&layout=compact&theme=radical)](https://github.com/felipesantos1985/)
+📫 Portfólio: **[felpsan.com.br](https://felpsan.com.br)** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/felpsan/)
 
+<br clear="right"/>
 
+## 🚀 O que eu faço
 
-## 🚀 Skills
+Junto código e design no dia a dia: construo produtos full-stack do zero (Next.js + Supabase) e cuido da experiência de UI/UX de ponta a ponta. Hoje lidero e-commerce + design na **Manada Animal** e desenvolvo a **Corre Santa Luzia**, uma plataforma de gestão de corridas de rua (inscrições, check-in, CRM e portal do corredor) pensada para virar um produto SaaS.
 
-  <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/felpsan/">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+## 🛠️ Stack
+
+<div>
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="Adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-  <img align="center" alt="Mac" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</div>
 
+## 📊 GitHub Stats
 
+<div>
+  <img align="center" alt="Felipe's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=felipesantos1985&show_icons=true&theme=radical" />
+  <img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos1985&hide=html&layout=compact&theme=radical" />
+</div>
 
+## 🌐 Onde me encontrar
 
-## 🎮🕹 Games
-
-    
-
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/felpsan/">
-  <img align="center" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img align="center" alt="xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-  <img align="center" alt="nintendo-3ds" src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />
-
-    
- ## Sigam-me os bons!!
-    
+[![Portfólio](https://img.shields.io/badge/Portfólio-felpsan.com.br-1e2327?style=for-the-badge)](https://felpsan.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felpsan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felpsan_)
-[![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felpsan_)
 
-
-
-</div><br/>
-
-](https://github.com/felipesantos1985?)
