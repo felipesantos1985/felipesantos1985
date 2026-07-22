@@ -48,5 +48,5 @@ Junto código e design no dia a dia: construo produtos full-stack do zero (Next.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-felpsan.com.br-1e2327?style=for-the-badge)](https://felpsan.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felpsan/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felpsan_)
+
 
