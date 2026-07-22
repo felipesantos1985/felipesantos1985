@@ -37,12 +37,6 @@ Junto código e design no dia a dia: construo produtos full-stack do zero (Next.
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div>
-  <img align="center" alt="Felipe's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=felipesantos1985&show_icons=true&theme=radical" />
-  <img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos1985&hide=html&layout=compact&theme=radical" />
-</div>
 
 ## 🌐 Onde me encontrar
 
